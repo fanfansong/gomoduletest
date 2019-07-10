@@ -1,4 +1,4 @@
-module github.com/fanfansong/gomoduletest
+module github.com/fanfansong/gomoduletest/v2
 
 go 1.12
 
