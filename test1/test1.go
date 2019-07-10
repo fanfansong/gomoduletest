@@ -14,5 +14,4 @@ func String2() {
 		"package":  "test1",
 		"function": "String2()",
 	}).Info("info")
-	return true
 }
